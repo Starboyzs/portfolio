@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.2974524e.css",
+    "main.js": "/portfolio/static/js/main.ed979515.js",
+    "static/media/Ayo_About-removebg-preview (1).png": "/portfolio/static/media/Ayo_About-removebg-preview (1).64d1f14c5fbbdf2cdc0b.png",
+    "static/media/portfolio5.png": "/portfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/Ayo_Header-removebg-preview (1).png": "/portfolio/static/media/Ayo_Header-removebg-preview (1).19889c316fad1b69aa00.png",
+    "static/media/Ayowale Ojo-Resume.pdf": "/portfolio/static/media/Ayowale Ojo-Resume.ccd7136f0de041ddeb64.pdf",
+    "static/media/portfolio2.jpg": "/portfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/portfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/portfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.2974524e.css.map": "/portfolio/static/css/main.2974524e.css.map",
+    "main.ed979515.js.map": "/portfolio/static/js/main.ed979515.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2974524e.css",
+    "static/js/main.ed979515.js"
+  ]
+}
