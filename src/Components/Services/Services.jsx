@@ -48,7 +48,7 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Consistency thorughout design </p>
+              <p>Consistency throughout design </p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>

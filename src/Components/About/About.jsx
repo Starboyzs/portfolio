@@ -41,7 +41,7 @@ const About = () => {
           <p>
           Ayowale Ojo is a passionate web developer with top-notch experience in web  application development. This includes  UI/UX design, Front-end development, Back-end development, brand identity, graphics, illustrations, etc.
           </p>
-          <a className='btn btn-primary' href="#contact">let,s Talk</a>
+          <a className='btn btn-primary' href="#contact">let's Talk</a>
         </div>
       </div>
 

@@ -35,7 +35,7 @@ const Contact = () => {
       <BsTwitter className='contact__option-icon' />
       <h4>Twitter</h4>
       <h5>@Ayowale_Ojo_</h5>
-      <a href='https://twitter.com/Ayowale_Ojo_' target="_blank">send a message</a>
+      <a href='https://twitter.com/Ayowale__Ojo' target="_blank">send a message</a>
       </article>
 
       <article className='contact__option'>

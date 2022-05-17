@@ -23,8 +23,8 @@ const data=[
     image:IMG2,
     text:"React Portfolio Website",
     alt:"React Portfolio website image",
-    link1:"https://github.com/Starboyzs/Starboyzs.github.io",
-    link2:"https://github.com/Starboyzs/Starboyzs.github.io"
+    link1:"https://github.com/Starboyzs/portfolio.git",
+    link2:"https://starboyzs.github.io/portfolio/"
 
   },
   {
@@ -42,8 +42,8 @@ const data=[
     image:IMG4,
     text:"TinDog App Clone",
     alt:"TinDog app clone image",
-    link1:"https://github.com/Starboyzs/Starboyzs.github.io",
-    link2:"https://github.com/Starboyzs/Starboyzs.github.io"
+    link1:"https://github.com/Starboyzs/tindog.git",
+    link2:"https://starboyzs.github.io/tindog/"
 
   },
   {
@@ -51,8 +51,8 @@ const data=[
     image:IMG5,
     text:"My Site",
     alt:"My-site image",
-    link1:"https://github.com/Starboyzs/Starboyzs.github.io",
-    link2:"https://github.com/Starboyzs/Starboyzs.github.io"
+    link1:"https://github.com/Starboyzs/my-site.git",
+    link2:"https://starboyzs.github.io/my-site/"
 
   },
   {
@@ -60,8 +60,8 @@ const data=[
     image:IMG6,
     text:"CV",
     alt:"CV image",
-    link1:"https://github.com/Starboyzs/Starboyzs.github.io",
-    link2:"https://github.com/Starboyzs/Starboyzs.github.io"
+    link1:"https://github.com/Starboyzs/CV.git",
+    link2:"https://starboyzs.github.io/CV/"
 
   }
   
