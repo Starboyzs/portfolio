@@ -14,8 +14,8 @@ const data=[
     image:IMG1,
     text:"Google Keeper App Clone",
     alt:"Google Keeper App Clone image",
-    link1:"https://github.com/Starboyzs/Starboyzs.github.io",
-    link2:"https://github.com/Starboyzs/Starboyzs.github.io"
+    link1:"https://github.com/Starboyzs/keeper-app-clone.git",
+    link2:"https://starboyzs.github.io/keeper-app-clone/"
 
   },
   {
