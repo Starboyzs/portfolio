@@ -75,11 +75,13 @@ const Portfolio = () => {
 
       <div className='container portfolio__container'>
       {data.map((item)=>{
-        return(<article className='portfolio__item'>
+        return(
+          <article className='portfolio__item'>
         <div className='portfolio__item-image'> 
         <img src= {item.image} alt={item.alt}/>
         </div>
         <h3>{item.text}</h3>
+
         <div className='portfolio__item-cta'>
         <CTA
           text1={"Repository"}
@@ -87,9 +89,9 @@ const Portfolio = () => {
           link1={item.link1}
           link2={item.link2}
           target={"_blank"}
-          
         />
         </div>
+        
         </article>)
       })}
        
