@@ -23,7 +23,7 @@ const data = [
     text: "React Portfolio Website",
     alt: "React Portfolio website image",
     link1: "https://github.com/Starboyzs/portfolio.git",
-    link2: "https://willowy-selkie-084681.netlify.app/",
+    link2: "https://ayowebsite.netlify.app/",
   },
   {
     id: 3,
